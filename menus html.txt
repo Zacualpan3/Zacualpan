@@ -1,0 +1,11 @@
+DOCTYPE html>
+<head>< =title>etiqueta A</title>
+<link rel ="stylesheet"type="text/css"hret ="css/menu.css">
+  </head>
+<body bgcolor-"green">
+<nav>
+<h2>menu principal </h2>
+<imput id = "toggle"type¨checkbox¨c
+
+</a>
+<font color = "white" size ="5">
